@@ -25,7 +25,7 @@ Le protocole SSH a été conçu avec l'objectif de remplacer les différents pro
 
   * ***Pare-feu***  
   
-   Un pare-feu (de l'anglais firewall) est un logiciel et/ou un matériel permettant de faire respecter la politique de sécurité du réseau, celle-ci définissant quels sont les types de communications autorisés sur ce réseau informatique. Il surveille et contrôle les applications et les flux de données (paquets).
+   Un pare-feu (de l'anglais firewall) est un logiciel et/ou un matériel permettant de faire respecter la politique de sécurité du réseau, celle-ci définissant quels sont les types de communications autorisés sur ce réseau informatique. Il surveille et contrôle les applications et les flux de données.
    
    ###### Quels problème pour le Pare-feu ?  
 
