@@ -50,7 +50,7 @@ Cette méthode est souvent combinée avec l'attaque par dictionnaire et par tabl
    ###### Création d'une Machine virtuelle pour démontrer les différents problèmes de chaque partie. A chaque fois, faire cette démonstration après la réponses aux questions "Quels problèmes...?"  
    
    * Machine virtuelle qui propose des solutions à chaque problème potentiels.  
-    ###### Machine Kali Linux
+   ###### Machine Kali Linux
    
    * Ouverture sur des potentiels solution non accessible pour le moment ou à notre niveau  
 
