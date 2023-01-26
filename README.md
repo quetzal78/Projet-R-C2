@@ -8,7 +8,9 @@
    Qu'est-ce que ...  
   
   ### Ouverture sur tout les problèmes liés aux couches 3 et 4
-
+   Comment sécurisé les connections  
+   Les solutions actuelles  
+   ...  
 
 ## Développement  
 
