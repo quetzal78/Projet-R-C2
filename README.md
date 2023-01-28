@@ -3,11 +3,11 @@
 
 ## Introduction  
 
-  ### Définition des Parties
+  ### ──────────【 Définition des Parties 】────────── ###
    * Qu'est-ce que le SSH ?  
    * Qu'est-ce que ...  
   
-  ### Ouverture sur tout les problèmes liés aux couches 3 et 4
+  ### Ouverture sur tout les problèmes liés aux couches 3 et 4 ###
    * Comment sécurisé les connections  
    * Les solutions actuelles  
    * ...  
