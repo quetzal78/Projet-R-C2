@@ -1,7 +1,7 @@
 # Projet-R&C
   ###### Projet - Bachelor Cybersécurité et Réseaux Argenteuil - Thème Durcissement d'accès
 
-# Installation de Fail2ban
+# Fail2ban
 
 Fail2ban est un outil de sécurité essentiel pour protéger un serveur contre les tentatives de connexion malveillantes. Il fonctionne en surveillant les journaux système pour détecter les comportements suspects, tels que des tentatives de connexion infructueuses répétées, et en bloquant les adresses IP responsables. Voici un guide sur l'installation, la configuration et la maintenance de Fail2ban.
 
@@ -61,7 +61,7 @@ Fail2ban est un outil précieux pour renforcer la sécurité de votre serveur en
 
 "Installation, Configuration et Maintenance de Knockd
 
-# Installation de Knockd
+# Knockd
 Sous Linux, vous pouvez installer Knockd en utilisant le gestionnaire de paquets de votre distribution.
 ```shell
 sudo apt-get install knockd
