@@ -61,9 +61,7 @@ Fail2ban est un outil précieux pour renforcer la sécurité de votre serveur en
 
 "Installation, Configuration et Maintenance de Knockd
 
-## Installation
-
-### Installation de Knockd
+# Installation de Knockd
 Sous Linux, vous pouvez installer Knockd en utilisant le gestionnaire de paquets de votre distribution.
 ```shell
 sudo apt-get install knockd
